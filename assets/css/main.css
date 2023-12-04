@@ -100,6 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #758f6e;
+		background-image: url("images/SXMP_Panorama.jpg");
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #dddec8 15%, #496946 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #dddec8 15%, #496946 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #dddec8 15%, #496946 85%);
